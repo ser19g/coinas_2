@@ -264,7 +264,7 @@ export default function Header() {
        :''
     } 
     </div>
-    {/* <SliderMain /> */}
+    <SliderMain />
     </>
   )
 }
