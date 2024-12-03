@@ -1,5 +1,5 @@
 import HeroOne from '@/components/HeroOne'
-import { SliderMain } from '@/components/SliderMain'
+
 import Image from 'next/image'
 import React from 'react'
 
