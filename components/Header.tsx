@@ -10,7 +10,8 @@ import React from 'react';
 import Link from 'next/link';
 import Blockchain from '@/app/blockchain/page';
 import { useRouter } from 'next/navigation';
-import SliderMain from "@/components/SliderMain";
+import SliderMain from '@/components/SliderMain';
+
 
 export default function Header() {
 
