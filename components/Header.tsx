@@ -10,6 +10,7 @@ import React from 'react';
 import Link from 'next/link';
 import Blockchain from '@/app/blockchain/page';
 import { useRouter } from 'next/navigation';
+import SliderMain from './SliderMain';
 
 export default function Header() {
 
@@ -262,6 +263,7 @@ export default function Header() {
        :''
     } 
     </div>
+    <SliderMain />
     </>
   )
 }
